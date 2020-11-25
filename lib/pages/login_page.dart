@@ -1,9 +1,9 @@
-import 'package:chat/widgets/blue_button.dart';
-import 'package:chat/widgets/labels.dart';
 import 'package:flutter/material.dart';
 
 import 'package:chat/widgets/logo.dart';
 import 'package:chat/widgets/custom_input.dart';
+import 'package:chat/widgets/blue_button.dart';
+import 'package:chat/widgets/labels.dart';
 
 class LoginPage extends StatelessWidget {
   @override
